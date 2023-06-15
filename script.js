@@ -26,7 +26,7 @@ function letterCombinations(input) {
 	}
   }
 	solve(0,"");
-	console.log(solution);
+	return solution;
 	
 }
 
